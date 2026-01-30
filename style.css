@@ -1,0 +1,4 @@
+body { background: #000; color: #fff; font-family: sans-serif; }
+#chat { margin-top: 20px; }
+button { background: orange; color: #000; border: none; padding: 8px 16px; cursor: pointer; }
+input { width: 70%; padding: 8px; }
